@@ -1,2 +1,2 @@
 ### Hello ThreeJS
-https://github.com/rajkumar82/hellothreejs.git
+https://hellothreejs-tan.vercel.app/
