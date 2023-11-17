@@ -1,2 +1,2 @@
 ### Hello ThreeJS
-https://threejsportfolio.z30.web.core.windows.net/
+https://github.com/rajkumar82/hellothreejs.git
